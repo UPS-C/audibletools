@@ -1,6 +1,5 @@
 {
   "name": "material-pg-01",
-  "homepage": "http://audible-tools.github.io/",
   "private": true,
   "version": "0.1.0",
   "dependencies": {
