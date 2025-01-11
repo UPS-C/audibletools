@@ -1,6 +1,6 @@
 {
   "name": "material-pg-01",
-  "private": true,
+  "private": false,
   "version": "0.1.0",
   "dependencies": {
     "@babel/core": "^7.13.13",
